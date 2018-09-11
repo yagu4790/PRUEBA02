@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+
+
+
+
+*{
+	
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+body{
+	
+	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+
+.margen{
+	
+	
+	margin-top: 80px;
+}
+
+.titulo{
+	
+	
+	text-transform: uppercase;
+font-weight: 700;
+	font-size: 60px;
+}
+
+.parrafo{
+	
+	font-size: 18px;
+}
+
+.botoncito{
+	
+	background-color: transparent;
+	border: 2px solid #000000;
+	padding: 5px 15px;
+	text-align: center;
+	font-weight: 800;
+	
+}
+
+#sec-cooling{
+	
+	
+	background-color: #F3F3F3;
+}
+
+#sec-cooling .titulo{
+	
+	text-transform:none;
+}
+
+
+#sec-galaxy .titulo{
+	text-transform: none;
+	font-size: 80px;
+
+}
+
+#sec-frame{
+	
+	background-color: #F3F3F3;
+}
+
+#sec-frame .titulo{
+	
+	text-transform: none;
+}
+
+
+
+
+#sec-gear .titulo{
+	
+	text-transform: none;
+}
+
+
+footer{
+	
+	background-color: #F3F3F3;
+	text-align: center;
+	padding: 90px;
+	color:#6C6C6C;
+	text-transform: none;
+}
+
+
+
+footer .titulo{
+	
+	
+	text-transform: none;
+	font-weight: 100;
+}
+
+.barrita{
+	
+	margin-bottom: 0;
+	height: 1px;
+}
+
+
